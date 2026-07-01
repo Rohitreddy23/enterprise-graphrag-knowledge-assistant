@@ -73,7 +73,11 @@ Vector Store             Knowledge Graph
 ```
 
 ---
+## Demo
 
+The FastAPI backend exposes interactive Swagger documentation for testing GraphRAG endpoints.
+
+![Swagger Demo](docs/swagger-demo.png)
 ## Tech Stack
 
 | Category | Tools |
