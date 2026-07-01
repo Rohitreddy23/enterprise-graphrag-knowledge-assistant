@@ -44,7 +44,7 @@ LLM Response
 FastAPI Endpoint
 
 
-## Tech Stack
+Tech Stack
 Python
 FastAPI
 LangChain
@@ -56,7 +56,7 @@ FAISS
 Docker
 MLflow
 
-## Key Features
+Key Features
 Document ingestion pipeline
 Chunking and metadata extraction
 Embedding generation
@@ -67,14 +67,14 @@ LLM answer generation
 FastAPI backend
 Evaluation and monitoring support
 
-## Sample Use Cases
+Sample Use Cases
 Enterprise document search
 Question answering over internal knowledge
 Document summarization
 Policy and compliance search
 Knowledge discovery across connected documents
 
-## Future Improvements
+Future Improvements
 Add authentication
 Add frontend dashboard
 Add RAG evaluation metrics
