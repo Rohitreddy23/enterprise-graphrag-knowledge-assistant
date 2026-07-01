@@ -1,0 +1,5 @@
+This is a sample enterprise policy document.
+
+It can be used to test document ingestion, chunking, retrieval, and question answering.
+In a real enterprise GraphRAG system, documents would come from internal systems,
+cloud storage, knowledge bases, or document management platforms.
